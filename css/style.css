@@ -1,0 +1,26 @@
+body {margin:0; padding:0; background:#e1981e url(../images/bg.gif) repeat-x;}
+table {border-spacing:0;}
+td,p,div {color: #000; font-family:Tahoma; font-size:12px; font-weight:normal; padding:0; margin:0;}
+h1 {font-family:Arial; font-size:14px; font-weight:bold; color:#000; margin:0; padding:0 0 10px 0; text-transform:uppercase;}
+a {color:#000;}
+a:hover {color:#792701;}
+#header {width:766px; height:328px; background: url(../images/header.jpg) no-repeat; margin:0 auto;}
+#header ul {position:relative; display:block; width:249px; height:195px; background: url(../images/menu_bg.gif) repeat-x; margin:0 0 0 505px; padding:28px 0 0 4px; list-style-type:none;}
+#header ul li {width:100%; height:23px; background: url(../images/menu_spacer.gif) top right no-repeat; margin:0; padding:7px 0 0 0; font-family:"Trebuchet MS", Arial, sans-serif; font-size:14px; font-weight:bold; text-align:center;}
+#header ul li a {color:#fff; text-decoration:none;}
+#header ul li a:hover {color:#792701;}
+#menu_li_1 {background: url(../images/menu_spacer_1.gif) top right no-repeat !important;}
+#menu_li_2 {background: url(../images/menu_spacer_2.gif) top right no-repeat !important;}
+#logo {position:relative; margin:0 0 0 505px; padding:0; width:253px; height:104px; background: url(../images/logo_bg.gif) repeat-y; border-bottom:1px solid #792701; text-align:center; vertical-align:top; font-family:"Trebuchet MS", Arial, sans-serif; font-size:26px; font-weight:normal; color:#6e2f19;}
+#logo span {display:block; position:absolute; width:253px; left:2px; top:38px; z-index:0; margin:0}
+#company_name {color:#fff; left:0px !important; top:36px !important; z-index:1 !important;}
+#content {margin:0 auto; width:714px; background: #f0cc8f url(../images/content_bg.gif) repeat-x; padding:15px 18px;}
+#content p {padding-bottom:14px; text-align:justify; line-height:15px;}
+#footer {width:750px; height:75px; margin:0 auto; background: #792701 url(../images/footer_top.gif) top no-repeat; text-align:center; vertical-align:top;}
+#footer span {display:block; color:#fff; font-size:11px; padding-top:24px;}
+#footer span a {margin:0 6px; color:#fff; text-decoration:none;}
+#footer span a:hover {text-decoration:underline;}
+#footer p {color:#fff; font-size:10px; padding-top:7px;}
+
+#advertising {border:#792701 solid 1px; padding:4px 6px;}
+ol.bullet_no {list-style-type:none; margin:0; padding:0;}
